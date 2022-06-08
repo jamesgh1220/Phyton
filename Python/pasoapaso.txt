@@ -1,0 +1,14 @@
+1. Hola Mundo : print('Hola mundo')
+2. Variables:
+    nombre = "James"
+    nombreCliente = "James" #camelCase  
+    NombreCliente = "James" #PascalCase
+    nombrecliente = "James" #flat case
+    nombre_cliente = "James" #snake Case
+3. Tipos de datos: 
+    String: nombre = "James"
+    Integer: likes = 201
+    Floats: total_pagar = 100.20
+    Boolean
+4. Funciones:
+    
